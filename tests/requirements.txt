@@ -1,0 +1,5 @@
+pytest==8.3.5
+httpx==0.28.1
+clickhouse-connect==0.8.17
+psycopg[binary]==3.2.9
+boto3==1.38.16
